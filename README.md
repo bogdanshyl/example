@@ -7,3 +7,7 @@ This is a sample readme file for my GitHub Example repo. We`re learning Markdown
 
 ## Link Example
 [lmgtfy](http://bfy.tw/5z)
+
+1. Ein
+2. Zwei
+3. Drei
